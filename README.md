@@ -1,4 +1,4 @@
-# useless-website
+# Useless Website
 A website that is useless.
 
 ![Alt text](funy.PNG)
